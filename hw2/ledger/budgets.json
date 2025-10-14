@@ -1,0 +1,17 @@
+[
+  {
+    "category": "Коммунальные услуги",
+    "limit": 1500,
+    "period": "monthly"
+  },
+  {
+    "category": "Шоппинг",
+    "limit": 4000,
+    "period": "monthly"
+  },
+  {
+    "category": "Путешествия",
+    "limit": 10000,
+    "period": "yearly"
+  }
+]
